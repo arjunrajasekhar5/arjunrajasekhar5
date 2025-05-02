@@ -5,13 +5,13 @@
 - [Active Directory Home Lab](https://github.com/arjunrajasekhar5/ActiveDirectoryLab)
 - [Home SIEM Lab](https://github.com/arjunrajasekhar5/HomeSIEMLab)
 - [File Integrity Monitor](https://github.com/arjunrajasekhar5/FileIntegrityMonitor)
-- [Building a Serverless Web Application using AWS](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Building a Serverless Web Application using AWS](https://github.com/arjunrajasekhar5/ServerlessWebApplication)
 
 <h2>Certifications</h2>
 
-- [Google Cybersecurity Professional Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [AWS Certified Cloud Practitioner](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Certified Jr. Penetration Tester](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/8VSURU03Z28G)
+- [AWS Certified Cloud Practitioner](https://drive.google.com/file/u/0/d/10EkXjyW4diuMLI7RLR6-DngUClcbCjqT/view?usp=drivesdk&pli=1)
+- [Certified Jr. Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DHU7WJSZ9C.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
