@@ -2,7 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Active Directory Home Lab](https://github.com/arjunrajasekhar5/ActiveDirectoryLab)
+- [Home SIEM Lab](https://github.com/arjunrajasekhar5/HomeSIEMLab)
+- [File Integrity Monitor](https://github.com/arjunrajasekhar5/FileIntegrityMonitor)
+- [Building a Serverless Web Application using AWS](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>Certifications</h2>
 
