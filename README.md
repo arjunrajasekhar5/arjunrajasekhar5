@@ -17,7 +17,7 @@
 [<img align="left" alt="ArjunRajasekhar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ArjunRajasekhar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://x.com/arjunrraj5
+[twitter]: https://x.com/arjunrraj5/
 [instagram]: https://www.instagram.com/arjun.raj.pillai/
 [linkedin]: https://www.linkedin.com/in/arjun-rajasekhar-182508233/
 
