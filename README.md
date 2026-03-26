@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arjun! <br/><a href="https://github.com/arjunrajasekhar5">Programmer</a>, <a href="https://www.linkedin.com/in/arjun-rajasekhar-182508233/">Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Arjun! <br/><a href="https://github.com/arjunrajasekhar5">Programmer</a>, <a href="https://www.linkedin.com/in/arjun-rajasekhar-182508233/">AI Enthusiast</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
